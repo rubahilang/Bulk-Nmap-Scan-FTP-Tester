@@ -25,7 +25,7 @@
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd bulk-scan-ftp-tester
+    cd Bulk-Nmap-Scan-FTP-Tester
     ```
 
 3. **Install Required Packages:**
