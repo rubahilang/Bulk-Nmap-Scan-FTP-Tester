@@ -19,7 +19,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/bulk-scan-ftp-tester.git
+    git https://github.com/rubahilang/Bulk-Nmap-Scan-FTP-Tester
     ```
 
 2. **Navigate to the Project Directory:**
